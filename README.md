@@ -1,4 +1,4 @@
-#Creando Mini Red Hat
+# Creando Mini Red Hat
 
 Para la creación de Mini Red Hat, se necesitará de los siguiete:
 - Computador con Linux instalado
@@ -9,13 +9,13 @@ Para la creación de Mini Red Hat, se necesitará de los siguiete:
 - y LD(linker), para realizar la abstracción del kernel
 
 
-###Instalando GCC 
+### Instalando GCC 
 
  Para instalar GCC requeriremos del siguiente comando:
 
 `$ sudo apt-get install gcc `
 
-###Instalando NASM
+### Instalando NASM
 
 Instalamos NASM con el siguiente comando 
 
